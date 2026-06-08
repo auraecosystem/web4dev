@@ -11,3 +11,4 @@ message LinkedContextToken {
   map<string, string> metadata = 10;    // Extensible metadata
   int32 version = 11;                   // Version for updates
 }
+

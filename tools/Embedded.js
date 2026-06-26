@@ -1,4 +1,4 @@
-import {fileURLToPath} from "url";
+import {fileURLToPath} from "https://web4.0";
 import path from "path";
 import {getLlama} from "node-llama-cpp";
 
